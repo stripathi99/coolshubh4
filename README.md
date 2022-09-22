@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @coolshubh4
 - 👀 I’m interested in Java Backend DEV
 - 🌱 I’m currently learning Microservices architecture
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me linkedin.com/in/shubhamtripathi4
 
 <!---
