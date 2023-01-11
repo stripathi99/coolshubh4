@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stripathi99
-- 👀 I’m interested in Java Backend DEV
-- 🌱 I’m currently learning Microservices architecture
-- 💞️ I’m looking to collaborate on Java
+- 👀 I’m working as a Java Backend DEV
+- 🌱 I’m current insterst revolves around Microservices architecture in a distributed environment.
+- 💞️ I’m looking to collaborate on Java.
 - 📫 How to reach me linkedin.com/in/shubhamtripathi4
 
 <!---
